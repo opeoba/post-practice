@@ -1,0 +1,19 @@
+body {
+   margin: 15px;
+}
+
+label {
+    margin-bottom: 50px;
+}
+
+#name-label {
+    margin-right: 5px;
+}
+
+#age-label {
+    margin-right: 51px;
+}
+
+#gender-label {
+    margin-right: 30px;
+}
